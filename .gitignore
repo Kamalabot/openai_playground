@@ -6,10 +6,11 @@ __pycache__/
 *.json
 # C extensions
 *.so
-
+chatgpt_content_*
 # Distribution / packaging
 .Python
 build/
+site-packages/
 develop-eggs/
 dist/
 downloads/
