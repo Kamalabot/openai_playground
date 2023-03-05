@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import json, openai
 import warnings
 import os
