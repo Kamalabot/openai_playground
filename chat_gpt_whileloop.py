@@ -17,6 +17,7 @@ def extract_response(org,key,role_player,request_content):
     openai.api_key= key
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
+        temperature=0,
         messages=[
             {"role": "system", 
              "content": f"You are a {role_player}"},
