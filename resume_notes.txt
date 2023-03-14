@@ -1,0 +1,242 @@
+Abouts:
+
+Harshit Chopra : Data Analyst || Accenture S&C - Life Sciences
+In the data analytics domain, my work involves working with clients from Top US Pharma companies and performing various analysis in order to enable them to make strategic decisions. The job involves various 
+aspects of predictive analytics, visualization, automation of reports & project management
+
+Yuvaraj Natarajan: Analytics Manager 
+
+Obtained strong background in descriptive analysis, data visualization, summarizing insights by mining large datasets, building machine learning models and developing KPI dashboards to deliver high 
+quality advanced analytics solutions to our clients and enhance their data-driven decision making.
+
+ experience in analytics, data science and BI. Performed various digital transformation projects, designed and delivered numerous innovative advanced analytics frameworks in highly diverse fieldr 
+
+ Skills: SQL, SAS, Excel, Python, Tableau, Hive.
+
+Specialty: Data & Business Analytics, Data Visualization, ETL, Big data, Predictive Analytics, Numerical Methods, Agile Methodology, Process Improvement through automatior.
+
+Mohit Srivastva
+Marketing Research, Data Analysis, Advanced Excel, PowerPoint, Power BI, Data Visualization Using Tableau, Competitor Analysis, Secondary Research, Consumer Insights, Global Client 
+Relationship Management, Business Research, Global Client Servicing (Mainly North America & EMEA), Data Visualization, Survey Design, Salesforce, Hubspot etc.
+
+
+Pooja Khanduja:
+Data analytics professional with experience in Digital Marketing, Operations, Finance and Ed-tech domains | Python | Statistics| 
+SQL | R | SAS VA | Google analytics| Google Ads| Kochava| Big Query| PySpark| HTML | Tibco Spotfire | OBIEE 11g
+
+Rahul Wadhwani
+I am a motivated and analytical professional with a strong penchant for data science and big data analytics. I have hands on experience on working with data analytics projects. Having interned every summer, I have worked on real world data and have produced results using my statistical and business acumen. 
+
+I am not only pursuant with quantitative skills encompassing Probability and Statistics, Econometrics, Applied Game Theory, Microeconomics and Macroeconomics, but also have the working expertise on tools such as R, Python, STATA, SQL, VBA, C , Tableau, E-views and Advanced Excel. 
+
+An excellent team player, I have an amicable approach and influential communication skills.
+
+With my abilities and technical expertise, I hope to venture deep into the exciting world of big data and analytics. 
+
+Specialties:
+
+• Big Data Analytics. Worked on large volumes of sales data to estimate market impact using statistical techniques 
+• Quantitative Skills. Probability & Statistics, Econometrics, Applied Game Theory, Microeconomics, Macroeconomics
+• Technical Skills. Trained on R, Python, STATA, SQL, VBA,Advanced Excel, E-views, MS Office
+
+Nisha Wadhwani:
+AboutAbout
+Senior Data Analyst with more than 5.4 years of experience in leading business solution software, analysing business requirements and project management. Aiming to utilise my strong prioritisation skills and analytical ability to achieve the goals of the company.
+
+• Designing and developing Data solutions for various vendor data Integrations and performance tuning.
+• Data extraction and automation of the reports using Python scripting.
+• Work experience of DWH and BI concepts like data lake, OLTP, OLAP, Dimensional Modelling, star schema, snowflake schema, dimension table, fact tables etc.
+• Designing complex reports using Power BI and Data Studio.
+• Building Statistical, Machine Learning Models using different Regression, Classification and Clustering techniques.
+• Working in Client RFPs, understanding requirements, develop solution architecture and implement the projects.
+• Experience and a strong understanding of SDLC and Agile (SCRUM) methodology.
+• Excellent communication & interpersonal skills with proven experience in utilising people and technical knowledge to assist organisations in critical decision making
+
+Specialties: Business Intelligence, Data Analysis, Data Integration
+BI Tool: Power BI, Data Studio
+Cloud: AWS
+ETL: SQL, Pandas
+Scripting Languages: Python/Pandas
+Algorithms: Machine learning, Statistics
+Scheduling tool: Cloud watch(AWS), Windows Scheduler
+Coding Languages: Java
+
+
+Mahak Ahuja:
+Decision Science Professional with over 3 years of experience in developing scalable analytical solutions for Fortune 500 business/clients across Retail, Automotive, and Insurance verticals.
+
+Languages: Python, R
+Data Analysis Tool: SQL, MS Excel
+Visualization: Python, Tableau
+Databases: Teradata SQL, MS SQL server
+Domains: Retail, Automotive & Insurance
+
+Keen learner and will be enhancing my career as Data Scientist.
+
+Dhanush Gowda
+AboutAbout
+Experienced Software Engineer with a demonstrated history of working in the information technology
+and services industry. Skilled in Snowflake, PL/SQL, Data Warehousing, Master Data Management, Microsoft Azure, Talend Open Studio, and Shell Scripting. Strong engineering professional with a Master of Technology - MTech focused in Information Technology from Vellore Institute of Technology. 
+I would like to work on Python skill.
+
+
+Chandraniv Malakar
+Data Engineer with extensive hands-on experience on ELT pipelines creation, optimisation, Data Modelling, Data Warehousing projects and building APIs.
+Worked on industry leading ETL tools, cloud services like GCP & Azure, building Big Data pipelines and solutions using Python/PySpark hosted on cloud clusters. 
+
+Have a strong understanding of Spark framework and other related technologies.
+Worked closely with data scientists on multiple projects and products, enabling AI-ML Ops pipelines to help business.
+Experienced in requirement analysis as well as development, with the ability to assess business rules, collaborate with stakeholders and clients.
+A quick learner with good technical, logical, analytical and debugging skills.
+
+
+
+Pyspark Pipeline: Connecting Data to Cockroad-DB:
+1) Extract the data from CSV file and load into Pyspark. 
+2) Connect Pyspark to Cockroach Db using JDBC connector. 
+3) Transform and Load the data into PostgreSQL Database locally.
+4) Make a copy of the Database to remote CockroadDB database. 
+5) Implementing the same pipeline using Airflow scheduler to automate the process.
+
+Creating Pyspark ML model pipeline:
+1)Extract data from Excel file provided by sales and marketing team and load into Pyspark session.
+2) Transform and analyse the data for features impacting the sales and customer satisfaction.
+3) Perform Linear Regression Analysis to model the sales performance.
+4) Provide the set of KPIs for the Sales and Production to target on quarterly basis
+5) Continue monitoring the real-time data of the sales and update the model
+
+Data modeling Star Schema using Pyspark SQL:
+1)Ingesting multiple CSV files into the Pyspark Context and build SQL tables for each dataset
+2) Identify the Primary Keys of each dataset and create the Data Schema for Dimensions and Fact tables
+3) Write SQL queries inside Pyspark Context to create the Dimension and Fact Tables and write it to PostgresQL database.
+4)Facilitate data Analysis and provide data requested by the stake holders for further analysis. 
+5)Improve the SQL query execution by partitioning the tables, using Window functions and Over clause.  
+
+Visualizing Board members' Membership in Indian Companies:
+1) Access the scraped data, convert it into CSV and load it into D3.js library.
+2) Clean the data and transform it to find the count of Companies one Board member is part of.
+3) Load the data into Database and provide it to Front end engineers.
+4) Write API endpoints using svelte-kit and make the data available for the Data Analysts.
+
+Business and Market research analyst for 8 years, and helped stake holders to make business decisions. 
+I am passionate of Data Engineering and SQL Analytics. I specialize in creating Data models for databases, building Data
+Pipelines, automation scripts using Python Programming Language. Experienced in Spark framework and Pyspark Library
+
+Athena : Senior Data Engineer Responsibility
+
+High-level Responsibilities
+
+
+Create and maintain optimal, company-wide data pipeline architecture
+Assemble large, complex data sets that meet functional / non-functional business requirements
+Identify, design, and implement internal process improvements, including:
+automating manual processes
+optimizing data delivery
+re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using Python, SQL, etc.
+Build analytics tools that use the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other business KPIs
+Work with the Executive, Product, Operations, and Design teams to assist with data-related technical & infrastructure needs
+
+Specific Responsibilities
+
+The Data Engineer will support our data analysts, data operations associates, database architects, and various business teams on data initiatives, and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+
+Some of the things you will work on:
+
+
+Build data pipelines that clean, transform, and aggregate disparate data
+Use software development principles to improve our back-end systems
+Model front- & back-end data sources to draw a comprehensive picture of data flow throughout the organization and enable powerful data analysis
+Develop models that can be used to answer questions for the business
+Communicate with other teams to understand their data needs
+
+To be successful you will need a combination of problem-solving, technical, and communication skills. The following qualifications are important success factors:
+
+
+Degree in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field, or related experience:
+Experience with ETL tools (e.g., Fivetran, dbt, etc.)
+Experience with relational SQL and NoSQL databases, (e.g., PostgreSQL, Airtable, etc.)
+Experience with data pipeline and workflow management tools
+(e.g., Airflow, Luigi, Azkaban, etc.)
+Experience with GCP cloud services
+(e.g., BigQuery, Cloud Composer, Cloud SQL for PostgreSQL, etc.)
+Experience with object-oriented/object function scripting languages (e.g, Python, Java, etc.) & querying languages (e.g., SQL, etc.)
+Experience performing root cause analysis on data & processes to answer business questions and identify opportunities for improvement
+Build processes supporting data transformation, data structures, metadata, dependency, and workload management
+Strong analytic skills related to working with structured & unstructured datasets
+A successful history of manipulating, processing, and extracting value from large, disconnected data systems
+Strong project management and organizational skills
+Experience supporting and working with cross-functional teams
+Great problem-solving and communication skills
+Ambitious, quick to learn, and takes ownership
+Be an advocate for best practices and continued learning
+
+Data Analyst role @ Programmers IO
+
+Job Responsibilities
+
+– Data analysis and interpretation to generation actionable business insights
+
+– Design and develop dashboards/reports to enable business decision making
+
+– Analyze complex data to identify and interpret patterns and trends relevant to business priorities
+
+– End-to-end data validation – assess data quality, remove corrupted data, etc
+
+– Exploratory data analysis based on business requirements
+
+
+Skills Required
+
+– Strong analytical, problem solving, and troubleshooting abilities
+
+– Good understanding the star schema and data models in the existing data warehouse
+
+– Good communicator who can effectively liaise with the business
+
+– Knowledge of programming languages like SQL, R, Python
+
+– Team working skills
+
+
+Qualifications Required
+
+– 4-6 years of experience in data analyst role
+
+– 2-3 Experience on Tableau/PowerBI desktop application
+
+– Engineering degree would be a plus
+Tiger Analytiics
+
+Bachelor's Degree in Engineering, Computer Science or related disciplines with strong mathematical & numeracy skills.
+5+ years of overall IT industry experience with atleast 3 years in IT services
+2-3 years of experience in any one of the domains – BFSI, Retail/CPG, Manufacturing, Logistics, Media/Entertainment, Hospitality
+Excellent working knowledge of SQL, Python and spreadsheet tools like Excel
+Excellent analytical skills - the ability to identify trends, patterns, and insights from data.
+Intermediate understanding of databases such as SQL Server, Oracle and working knowledge of cloud data platforms like Azure Synapse, AWS Redshift etc.
+Understanding of reporting & data visualisation tools such as PowerBI, Tableau or Qlik
+Understanding of website scripts such as XML, Javascript, JSON.
+Understanding of ETL framework and ETL tools including Alteryx and Microsoft SSIS.
+Presentation skills – ability to write and speak clearly to easily communicate complex ideas in a way that is easy to understand.
+
+Lynk Data Analyst: What You’ll Do
+
+
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Acquire data from primary or secondary data sources and maintain databases/data systems.
+Compile, verify accuracy and sort information according to priorities to prepare source data for computer entry
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Filter and “clean” data by reviewing reports and performance indicators
+Work with management to prioritize business and information needs
+Locate and define new process improvement opportunities
+
+What Expertise You’ll Add To The Team
+
+
+2-3 years of relevant work experience as a Data Analyst or Business Analyst
+Technical expertise with strong knowledge of statistics and experience using statistical packages for analyzing datasets (Excel - mandatory, SPSS, SAS) and databases (SQL etc).
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Adept at queries, report writing and presenting findings
+Preferred education: BS in Mathematics, Economics, Computer Science, Information Management or Statistics
