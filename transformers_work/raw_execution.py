@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModel
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
 
@@ -16,4 +16,16 @@ pt_batch = tokenizer(
     return_tensors="pt",
 )
 
-print(pt_batch)
+#print(**pt_batch)
+
+pt_model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+
+print(pt_model(**pt_batch))
+
+
+from torch import nn
+
+pt_pred = nn.functional.softmax(pt_model(**pt_batch).logits,dim =-1)
+
+print(pt_pred)
